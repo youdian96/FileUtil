@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crash_hint">很抱歉,程序出现异常,即将重启应用.</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="crash_hint">Sorry, the program is abnormal and the application will be restarted soon.</string>
+</resources>
